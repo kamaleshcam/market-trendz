@@ -27,4 +27,6 @@ This project analyzes market data and provides key insights such as:
 
 ## Author
 Kamalesh Cam – aspiring Data Analyst.
+[Dashboard preview](Screenshot (78).png)
+
 
