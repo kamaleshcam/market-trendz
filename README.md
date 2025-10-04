@@ -22,11 +22,7 @@ This project analyzes market data and provides key insights such as:
 2. Open it with Power BI Desktop.
 3. Refresh the data source if needed.
 
-## Dashboard Preview
-(Upload screenshot below and put the link here)
-
 ## Author
 Kamalesh Cam – aspiring Data Analyst.
-[Dashboard preview](Screenshot (78).png)
 
 
